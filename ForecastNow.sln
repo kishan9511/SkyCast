@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyCast.WebSystem", "SkyCast.WebSystem\SkyCast.WebSystem.csproj", "{5FA14EDF-9969-41C9-8DB7-CD04AEE997DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyCast.DataAccess", "SkyCast.DataAccess\SkyCast.DataAccess.csproj", "{9D2E8024-D91E-41C1-B00B-3EA43D841008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyCast.Models", "SkyCast.Models\SkyCast.Models.csproj", "{D68BB494-9CE5-4B0C-8C6B-EA31F4E19810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyCast.Utility", "SkyCast.Utility\SkyCast.Utility.csproj", "{BF4D093B-3454-403E-ACBA-5CD9193FEC59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA14EDF-9969-41C9-8DB7-CD04AEE997DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA14EDF-9969-41C9-8DB7-CD04AEE997DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA14EDF-9969-41C9-8DB7-CD04AEE997DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA14EDF-9969-41C9-8DB7-CD04AEE997DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2E8024-D91E-41C1-B00B-3EA43D841008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2E8024-D91E-41C1-B00B-3EA43D841008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2E8024-D91E-41C1-B00B-3EA43D841008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2E8024-D91E-41C1-B00B-3EA43D841008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68BB494-9CE5-4B0C-8C6B-EA31F4E19810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68BB494-9CE5-4B0C-8C6B-EA31F4E19810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68BB494-9CE5-4B0C-8C6B-EA31F4E19810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68BB494-9CE5-4B0C-8C6B-EA31F4E19810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4D093B-3454-403E-ACBA-5CD9193FEC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4D093B-3454-403E-ACBA-5CD9193FEC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4D093B-3454-403E-ACBA-5CD9193FEC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4D093B-3454-403E-ACBA-5CD9193FEC59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
